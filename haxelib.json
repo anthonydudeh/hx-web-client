@@ -1,0 +1,11 @@
+{
+  "name": "hxWebClient",
+  "url": "https://github.com/anthonydudeh/hx-web-client",
+  "license": "BSD-3-Clause",
+  "tags": ["js","network","websocket","http","client"],
+  "description": "A Haxe library for HTTP requests and WebSocket connections.",
+  "version": "0.1.0",
+  "releasenote": "Initial release.",
+  "classPath": "src",
+  "dependencies": {}
+}
